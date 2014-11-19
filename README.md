@@ -9,3 +9,5 @@ Currently only JPEG images are supported, no Olympus RAW support.
 
 Available in Windows Phone store http://www.windowsphone.com/s?appid=57de927c-24c7-4f92-9ff2-92f4739ef0e5
 
+Original pointer for accessing the device http://www.dpreview.com/forums/post/52565466
+
